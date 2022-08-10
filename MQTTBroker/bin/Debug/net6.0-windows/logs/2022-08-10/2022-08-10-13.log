@@ -1,0 +1,20 @@
+2022-08-10-13:55:42.746 INFO  [12 ] [MQTTBroker.Main.MqttServer_ValidatingConnectionAsync:155] ValidatingConnectionAsync：客户端ID=【 Client1】
+2022-08-10-13:55:42.751 INFO  [12 ] [MQTTBroker.Main.MqttServer_ClientConnectedAsync:59] ClientConnectedAsync：客户端ID=【 Client1】已连接, 用户名=【 test】地址=【 127.0.0.1:58909】 
+2022-08-10-13:55:42.800 INFO  [12 ] [MQTTBroker.Main.MqttServer_ClientSubscribedTopicAsync:121] ClientSubscribedTopicAsync：客户端ID=【 Client1】订阅的主题=【 TopicFilter: [Topic=test] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=False] [RetainAsPublished=False] [RetainHandling=SendAtSubscribe]】 
+2022-08-10-13:56:32.665 INFO  [18 ] [MQTTBroker.Main.MqttServer_ClientDisconnectedAsync:133] ClientDisconnectedAsync：客户端ID=【 Client1】已断开, 地址=【 127.0.0.1:58909】 
+2022-08-10-13:57:14.709 INFO  [1  ] [MQTTBroker.Main.MqttServer_StoppedAsync:84] StoppedAsync：MQTT服务已关闭……
+2022-08-10-13:57:15.384 INFO  [1  ] [MQTTBroker.Main.MoveNext:53] MQTT服务开始启动
+2022-08-10-13:57:15.385 INFO  [1  ] [MQTTBroker.Main.MqttServer_StartedAsync:97] StartedAsync：MQTT服务已启动……
+2022-08-10-13:57:40.536 INFO  [10 ] [MQTTBroker.Main.MqttServer_ValidatingConnectionAsync:155] ValidatingConnectionAsync：客户端ID=【 Client1】
+2022-08-10-13:57:40.539 INFO  [10 ] [MQTTBroker.Main.MqttServer_ClientConnectedAsync:59] ClientConnectedAsync：客户端ID=【 Client1】已连接, 用户名=【 test】地址=【 127.0.0.1:58972】 
+2022-08-10-13:57:40.613 INFO  [10 ] [MQTTBroker.Main.MqttServer_ClientSubscribedTopicAsync:121] ClientSubscribedTopicAsync：客户端ID=【 Client1】订阅的主题=【 TopicFilter: [Topic=test] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=False] [RetainAsPublished=False] [RetainHandling=SendAtSubscribe]】 
+2022-08-10-13:57:47.369 INFO  [10 ] [MQTTBroker.Main.MqttServer_ClientDisconnectedAsync:133] ClientDisconnectedAsync：客户端ID=【 Client1】已断开, 地址=【 127.0.0.1:58972】 
+2022-08-10-13:58:23.522 INFO  [10 ] [MQTTBroker.Main.MqttServer_ValidatingConnectionAsync:155] ValidatingConnectionAsync：客户端ID=【 Client1】
+2022-08-10-13:58:23.522 INFO  [10 ] [MQTTBroker.Main.MqttServer_ClientConnectedAsync:59] ClientConnectedAsync：客户端ID=【 Client1】已连接, 用户名=【 test】地址=【 127.0.0.1:58997】 
+2022-08-10-13:58:23.650 INFO  [10 ] [MQTTBroker.Main.MqttServer_ClientSubscribedTopicAsync:121] ClientSubscribedTopicAsync：客户端ID=【 Client1】订阅的主题=【 TopicFilter: [Topic=test] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=False] [RetainAsPublished=False] [RetainHandling=SendAtSubscribe]】 
+2022-08-10-13:58:27.232 INFO  [10 ] [MQTTBroker.Main.MqttServer_ClientDisconnectedAsync:133] ClientDisconnectedAsync：客户端ID=【 Client1】已断开, 地址=【 127.0.0.1:58997】 
+2022-08-10-13:58:35.685 INFO  [10 ] [MQTTBroker.Main.MqttServer_ValidatingConnectionAsync:155] ValidatingConnectionAsync：客户端ID=【 Client1】
+2022-08-10-13:58:35.688 INFO  [10 ] [MQTTBroker.Main.MqttServer_ClientConnectedAsync:59] ClientConnectedAsync：客户端ID=【 Client1】已连接, 用户名=【 test】地址=【 127.0.0.1:59008】 
+2022-08-10-13:58:35.735 INFO  [10 ] [MQTTBroker.Main.MqttServer_ClientSubscribedTopicAsync:121] ClientSubscribedTopicAsync：客户端ID=【 Client1】订阅的主题=【 TopicFilter: [Topic=test] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=False] [RetainAsPublished=False] [RetainHandling=SendAtSubscribe]】 
+2022-08-10-13:58:39.883 INFO  [10 ] [MQTTBroker.Main.MqttServer_InterceptingPublishAsync:71] InterceptingPublishAsync：客户端ID=【 Client1】 Topic主题=【 11】 消息=【 11】 qos等级=【 AtLeastOnce】
+2022-08-10-13:58:39.883 INFO  [10 ] [MQTTBroker.Main.MqttServer_ApplicationMessageNotConsumedAsync:144] ApplicationMessageNotConsumedAsync：发送端ID=【 Client1】 Topic主题=【 11】 消息=【 11】 qos等级=【 AtLeastOnce】

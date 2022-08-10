@@ -1,0 +1,69 @@
+2022-08-10-14:08:47.807 INFO  [1  ] [MQTTSubscriber.Main.MoveNext:58] 开始连接MQTT服务
+2022-08-10-14:08:47.947 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_ConnectedAsync:80] 客户端已连接服务端……
+2022-08-10-14:09:49.243 INFO  [10 ] [MQTTSubscriber.Main._mqttClient_DisconnectedAsync:70] 客户端已断开与服务端的连接……
+2022-08-10-14:10:02.802 INFO  [1  ] [MQTTSubscriber.Main.MoveNext:58] 开始连接MQTT服务
+2022-08-10-14:10:02.821 INFO  [10 ] [MQTTSubscriber.Main._mqttClient_ConnectedAsync:80] 客户端已连接服务端……
+2022-08-10-14:21:08.356 INFO  [1  ] [MQTTSubscriber.Main.MoveNext:59] 开始连接MQTT服务
+2022-08-10-14:21:08.492 INFO  [9  ] [MQTTSubscriber.Main._mqttClient_ConnectedAsync:81] 客户端已连接服务端……
+2022-08-10-14:22:33.511 INFO  [1  ] [MQTTSubscriber.Main.MoveNext:59] 开始连接MQTT服务
+2022-08-10-14:22:33.661 INFO  [10 ] [MQTTSubscriber.Main._mqttClient_ConnectedAsync:81] 客户端已连接服务端……
+2022-08-10-14:27:13.067 INFO  [1  ] [MQTTSubscriber.Main.MoveNext:59] 开始连接MQTT服务
+2022-08-10-14:27:13.197 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ConnectedAsync:84] 客户端已连接服务端……
+2022-08-10-14:27:32.158 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_DisconnectedAsync:74] 客户端已断开与服务端的连接……
+2022-08-10-14:28:16.932 INFO  [1  ] [MQTTSubscriber.Main.MoveNext:59] 开始连接MQTT服务
+2022-08-10-14:28:16.959 INFO  [13 ] [MQTTSubscriber.Main._mqttClient_ConnectedAsync:84] 客户端已连接服务端……
+2022-08-10-14:28:18.292 INFO  [13 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Client1】接收到消息。Topic主题=【 test】 消息=【 1111】 qos等级=【 AtLeastOnce】
+2022-08-10-14:28:28.190 INFO  [13 ] [MQTTSubscriber.Main._mqttClient_DisconnectedAsync:74] 客户端已断开与服务端的连接……
+2022-08-10-14:34:14.847 INFO  [1  ] [MQTTSubscriber.Main.MoveNext:59] 开始连接MQTT服务
+2022-08-10-14:34:15.113 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ConnectedAsync:84] 客户端已连接服务端……
+2022-08-10-14:34:21.982 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:21.988 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:25.707 INFO  [10 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:26.394 INFO  [10 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:26.809 INFO  [10 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:26.992 INFO  [10 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:27.185 INFO  [10 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:27.392 INFO  [10 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:40.942 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:41.888 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:42.283 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:42.465 INFO  [10 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:42.676 INFO  [10 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:43.319 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:34:43.504 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:68] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:47:48.173 INFO  [1  ] [MQTTSubscriber.Main.MoveNext:73] 开始连接MQTT服务
+2022-08-10-14:47:48.296 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_ConnectedAsync:98] 客户端已连接服务端……
+2022-08-10-14:47:49.207 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:82] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:47:49.212 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:82] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:47:53.971 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:82] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:47:59.725 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:82] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:47:59.727 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:82] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:48:42.955 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:82] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:48:42.964 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:82] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:49:04.166 INFO  [16 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:49:04.187 INFO  [16 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:49:09.224 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:49:09.231 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:49:11.893 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:49:11.903 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:49:22.366 INFO  [15 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:49:22.374 INFO  [15 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:49:27.383 INFO  [16 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:49:29.308 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:49:29.309 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:50:38.945 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:50:43.472 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:50:43.475 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:50:45.502 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:50:45.505 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:50:46.634 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:50:46.645 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:50:48.857 INFO  [43 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:50:48.863 INFO  [43 ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:50:53.736 INFO  [8  ] [MQTTSubscriber.Main._mqttClient_DisconnectedAsync:0] 客户端已断开与服务端的连接……
+2022-08-10-14:51:08.632 INFO  [1  ] [MQTTSubscriber.Main.MoveNext:0] 开始连接MQTT服务
+2022-08-10-14:51:08.648 INFO  [42 ] [MQTTSubscriber.Main._mqttClient_ConnectedAsync:0] 客户端已连接服务端……
+2022-08-10-14:51:11.886 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:51:11.898 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:51:17.965 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test】 消息=【 test1】 qos等级=【 AtLeastOnce】
+2022-08-10-14:51:17.974 INFO  [5  ] [MQTTSubscriber.Main._mqttClient_ApplicationMessageReceivedAsync:0] ApplicationMessageReceivedAsync：客户端ID=【 Subscriber】接收到消息。Topic主题=【 test1】 消息=【 test1】 qos等级=【 AtLeastOnce】
